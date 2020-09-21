@@ -1,2 +1,2 @@
 # DBHelperClassic
-.NET Core DB Helper Classic for MS SQL Server (Fork web archive from none-db.org)
+.NET Core DB Helper Classic for MS SQL Server (Fork site archive from non-DBHelper.org)
